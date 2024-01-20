@@ -1,5 +1,5 @@
 shoppingList = {
-    "piekarnia" : ['Chleb', 'Pączek', 'Bułki'],
+    "ciastkarnia" : ['Chleb', 'Pączek', 'Bułki'],
     "warzywniak" : ['Marchew', 'Seler', 'Rukola']
 }
 
