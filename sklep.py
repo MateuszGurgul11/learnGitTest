@@ -10,3 +10,7 @@ for shop, item in shoppingList.items():
     allItems = len(item) + len(item)
 
 print(f"W sumie kupuję {allItems} produktów")
+
+print()
+
+print("Pozdrawiam dla szefa")
